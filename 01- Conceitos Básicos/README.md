@@ -1,7 +1,7 @@
 # 01 - Fundamentos
 Exercícios práticos sobre os fundamentos da linguagem Java.
 
-## 📂 Exercícios
+## Exercícios
 
 | Arquivo | Conceito |
 |---------|----------|
@@ -13,7 +13,7 @@ Exercícios práticos sobre os fundamentos da linguagem Java.
 | `Contador-de-ParesEÍmpares` | For + if/else |
 | `Calculadora-Simples` | Switch + if/else + validação |
 
-## 🧠 Conceitos abordados
+## Conceitos abordados
 - Estruturas condicionais (if/else)
 - Laços de repetição (for)
 - Switch expression

@@ -22,7 +22,7 @@ O repositório é organizado em pastas por tema, crescendo continuamente com o a
 - Java 17
 - VS Code
 
-## Sobre os exercícios
+## Sobre os Exercícios
 Os exercícios foram desenvolvidos por mim com o objetivo de praticar e fixar
 os conceitos estudados. Fazendo e refazendo exercícios vindos dos cursos e videos para uma melhor compreensão de seu funcionamento.
 
