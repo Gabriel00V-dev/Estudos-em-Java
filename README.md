@@ -26,5 +26,5 @@ O repositório é organizado em pastas por tema, crescendo continuamente com o a
 Os exercícios foram desenvolvidos por mim com o objetivo de praticar e fixar
 os conceitos estudados. Fazendo e refazendo exercícios vindos dos cursos e videos para uma melhor compreensão de seu funcionamento.
 
-## 📈 Status
-🔄 Repositório em construção e atualização contínua.
+## Status
+...Repositório em construção e atualização contínua...
