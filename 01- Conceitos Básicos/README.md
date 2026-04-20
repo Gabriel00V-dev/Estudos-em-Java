@@ -6,12 +6,15 @@ Exercícios práticos sobre os fundamentos da linguagem Java.
 | Arquivo | Conceito |
 |---------|----------|
 | `Hello-World` | Hello World |
-| `SomaBásica` | Conceito básico de soma e Scanner |
-| `Verificador-de-Maioridade` | if/else básico com Scanner |
-| `Tabuada-de-um-Número` | Laço for |
-| `Dia-da-Semana` | Switch |
-| `Contador-de-ParesEÍmpares` | For + if/else |
-| `Calculadora-Simples` | Switch + if/else + validação |
+| `SomaBásica` | Conceito básico de soma com Scanner |
+| `Verificador-de-Maioridade` | Verifica se é maior de idade ou não|
+| `Tabuada-de-um-Número` | Entra com um número, e mostra sua tabuada do 1 ao 10 |
+| `Dia-da-Semana` | Entra com um número de 1 a 7, e retorna o dia da semana |
+| `Contador-de-ParesEÍmpares` | Lê uma lista de inteiros e diz quais são pares ou ímpares |
+| `Calculadora-Simples` | Define 2 inteiros e o operador da equação, retornando o resultado |
+| `Classificador de Notas` | Lê uma lista de notas e retorna uma classificação para a média |
+| `Numeros Primos` | Lê um inteiro e retorna se ele é primo ou não |
+| `Menu Interativo` | Testa interações do-While com Switch para um menu interativo simples |
 
 ## Conceitos abordados
 - Estruturas condicionais (if/else)
