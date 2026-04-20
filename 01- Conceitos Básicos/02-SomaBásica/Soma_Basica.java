@@ -1,4 +1,4 @@
-public class Main {
+public class Soma_Basica {
 
     public static void main(String[] args) {
 

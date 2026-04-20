@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main{
+public class Contador_Par_Impar_ForIf{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int lista[] = new int[10];
