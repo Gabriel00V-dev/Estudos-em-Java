@@ -15,6 +15,7 @@ Exercícios práticos sobre os fundamentos da linguagem Java.
 | `Classificador de Notas` | Lê uma lista de notas e retorna uma classificação para a média |
 | `Numeros Primos` | Lê um inteiro e retorna se ele é primo ou não |
 | `Menu Interativo` | Testa interações do-While com Switch para um menu interativo simples |
+| `Jogo de Advinhar` | Gera um numero aleatório e te desafia a acerta-lo, utilizando biblioteca Random |
 
 ## Conceitos abordados
 - Estruturas condicionais (if/else)
