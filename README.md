@@ -19,7 +19,7 @@ O repositório é organizado em pastas por tema, crescendo continuamente com o a
 | Pasta | Descrição | 
 |-------|-----------|
 | `01-Fundamentos` | If/else, loops, switch
-| `01-Estrutura de Dados e Algoritmo` | Arrays, Matrizes, Filas, Pilhas, etc... 
+| `02-Estrutura de Dados e Algoritmo` | Arrays, Matrizes, Filas, Pilhas, etc... 
 
 ## Tecnologias
 - Java 17
