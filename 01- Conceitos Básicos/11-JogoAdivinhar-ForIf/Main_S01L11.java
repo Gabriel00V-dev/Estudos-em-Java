@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Jogo_de_Advinhar_RANDOM{
+public class Main_S01L11{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         Random rand = new Random();

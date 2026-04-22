@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Verificador_De_Idade_IfElse{
+public class Main_S01L03{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

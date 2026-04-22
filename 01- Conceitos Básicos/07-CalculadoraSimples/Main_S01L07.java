@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Calculadora_SwitchIf{
+public class Main_S01L07{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

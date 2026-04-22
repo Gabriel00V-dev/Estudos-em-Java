@@ -26,5 +26,10 @@ O repositório é organizado em pastas por tema, crescendo continuamente com o a
 Os exercícios foram desenvolvidos por mim com o objetivo de praticar e fixar
 os conceitos estudados. Fazendo e refazendo exercícios vindos dos cursos e videos para uma melhor compreensão de seu funcionamento.
 
+## Termos 
+Nos arquivos pode-se ver nomes como "Main_S01L01" por exemplo, nomes assim servem para referenciar a qual Sessão (S) o arquivo pertence e qual Lição (L) ele é.
+No caso, o exemplo citado refere-se ao arquivo da Sessão 1 - Lição 1.
+
+
 ## Status
 ...Repositório em construção e atualização contínua...

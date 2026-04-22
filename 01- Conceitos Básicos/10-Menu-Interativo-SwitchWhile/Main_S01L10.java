@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Menu_Formas_WhileSwitchIf {
+public class Main_S01L10 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

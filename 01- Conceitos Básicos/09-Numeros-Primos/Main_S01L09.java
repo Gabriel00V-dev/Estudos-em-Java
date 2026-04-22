@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Numeros_Primos {
+public class Main_S01L09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         

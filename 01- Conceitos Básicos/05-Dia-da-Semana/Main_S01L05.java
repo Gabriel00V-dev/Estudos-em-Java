@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Dia_Da_Semana_Switch{
+public class Main_S01L05{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int dia = 0;

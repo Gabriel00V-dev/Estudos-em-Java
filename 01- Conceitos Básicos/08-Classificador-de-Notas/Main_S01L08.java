@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Classificador_De_Notas_ForIf {
+public class Main_S01L08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int notas = 0;
