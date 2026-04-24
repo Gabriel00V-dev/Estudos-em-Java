@@ -16,6 +16,7 @@ Exercícios práticos sobre os fundamentos da linguagem Java.
 | `Numeros Primos` | Lê um inteiro e retorna se ele é primo ou não |
 | `Menu Interativo` | Testa interações do-While com Switch para um menu interativo simples |
 | `Jogo de Advinhar` | Gera um numero aleatório e te desafia a acerta-lo, utilizando biblioteca Random |
+| `ForEach` | Entendendo o fundamento de como funciona um ForEach |
 
 ## Conceitos abordados
 - Estruturas condicionais (if/else)
@@ -23,3 +24,4 @@ Exercícios práticos sobre os fundamentos da linguagem Java.
 - Switch expression
 - Leitura de dados com Scanner
 - Validação de entradas
+- ForEach
