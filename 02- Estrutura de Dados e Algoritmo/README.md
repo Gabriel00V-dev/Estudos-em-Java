@@ -13,9 +13,11 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `01-Arrays_02` | Busca de maior e menor elemento |
 | `01-Arrays_03` | Soma e cálculo de média |
 | `01-Arrays_04` | Ordenação com Bubble Sort |
+| `01-Arrays_05` | Introdução conceito de Vetor encapsulado em classe |
 
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
 - Busca e ordenação manual (Bubble Sort)
+- Encapsulado em classe
 
