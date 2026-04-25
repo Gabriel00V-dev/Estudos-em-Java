@@ -12,10 +12,11 @@ representa uma evolução nos conceitos de POO.
 | `02-ClasseCaneta-ModificadoresDeAcesso` | Modificadores public, private e protected |
 | `03-ClasseCaneta-Encapsulamento` | Encapsulamento, getters, setters e construtor |
 | `04-ContaBanco-Refatorado` | Classe com regras de negócio e boas práticas |
+| `05-ControleRemoto-Interface` | Interface com 10 métodos abstratos e implementação completa |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
 - Modificadores de acesso (public, private, protected)
 - Encapsulamento, getters e setters
-
+- Interfaces e métodos abstratos
 
