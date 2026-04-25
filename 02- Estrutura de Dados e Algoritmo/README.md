@@ -16,6 +16,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `01-Arrays_05` | Introdução conceito de Vetor encapsulado em classe |
 | `01-Arrays_06` | Aprofundamento em conceitos de manipulação de um Array |
 | `01-Arrays_07` | Array genérico com redimensionamento automático e busca por objeto |
+| `01-Arrays_08` | Busca binária implementada como método estático |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
@@ -23,3 +24,4 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 - Encapsulado em classe
 - Estudo de conceitos de complexidade algoritmica diversas
 - Array genérico com redimensionamento automático
+- Busca binária com método estático
