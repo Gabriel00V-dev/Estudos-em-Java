@@ -17,6 +17,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `01-Arrays_06` | Aprofundamento em conceitos de manipulação de um Array |
 | `01-Arrays_07` | Array genérico com redimensionamento automático e busca por objeto |
 | `01-Arrays_08` | Busca binária implementada como método estático |
+| `02-Matriz_01` | Introdução em Matriz com geração de numeros aleatorios usando SecureRandom |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
@@ -25,3 +26,4 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 - Estudo de conceitos de complexidade algoritmica diversas
 - Array genérico com redimensionamento automático
 - Busca binária com método estático
+- Básico de Matriz
