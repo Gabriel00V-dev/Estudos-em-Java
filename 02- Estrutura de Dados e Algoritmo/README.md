@@ -19,6 +19,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `01-Arrays_08` | Busca binária implementada como método estático |
 | `02-Matriz_01` | Introdução em Matriz com geração de numeros aleatorios usando SecureRandom |
 | `02-Matriz_02` | Multiplicação de Matrizes |
+| `02-Matriz_03` | Transformando as linhas de uma matriz em colunas de outra matriz |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
