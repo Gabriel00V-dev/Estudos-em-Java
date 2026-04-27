@@ -18,8 +18,9 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `01-Arrays_07` | Array genérico com redimensionamento automático e busca por objeto |
 | `01-Arrays_08` | Busca binária implementada como método estático |
 | `02-Matriz_01` | Introdução em Matriz com geração de numeros aleatorios usando SecureRandom |
-| `02-Matriz_02` | Multiplicação de Matrizes |
+| `02-Matriz_02` | Multiplicação básica entre Matrizes |
 | `02-Matriz_03` | Transformando as linhas de uma matriz em colunas de outra matriz |
+| `02-Matriz_04` | Produto de matrizes, Linha x Coluna, e depois soma os produtos correspondentes |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
@@ -29,3 +30,4 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 - Array genérico com redimensionamento automático
 - Busca binária com método estático
 - Básico de Matriz
+- Produto de Matrizes
