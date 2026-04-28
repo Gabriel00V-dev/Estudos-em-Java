@@ -21,6 +21,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `02-Matriz_02` | Multiplicação básica entre Matrizes |
 | `02-Matriz_03` | Transformando as linhas de uma matriz em colunas de outra matriz |
 | `02-Matriz_04` | Produto de matrizes, Linha x Coluna, e depois soma os produtos correspondentes |
+| `03-ArrayList_01` | Introdução a ArrayList, preenchendo o array com números aleatórios |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
