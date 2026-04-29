@@ -14,6 +14,7 @@ representa uma evolução nos conceitos de POO.
 | `04-ContaBanco-Refatorado` | Classe com regras de negócio e boas práticas |
 | `05-ControleRemoto-Interface` | Interface com 10 métodos abstratos e implementação completa |
 | `06-Lutador-AssociacaoEntreObjetos` | Associação entre objetos, regras de negócio e simulação de luta |
+| `07-Livro-InterfaceEAssociacao` | Implementação de interface e relacionamento entre classes |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
