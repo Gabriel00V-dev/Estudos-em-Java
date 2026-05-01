@@ -15,6 +15,7 @@ representa uma evolução nos conceitos de POO.
 | `05-ControleRemoto-Interface` | Interface com 10 métodos abstratos e implementação completa |
 | `06-Lutador-AssociacaoEntreObjetos` | Associação entre objetos, regras de negócio e simulação de luta |
 | `07-Livro-InterfaceEAssociacao` | Implementação de interface e relacionamento entre classes |
+| `08-Escola-HerancaSimples` | Herança simples com especialização de classes |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
