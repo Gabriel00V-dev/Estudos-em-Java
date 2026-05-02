@@ -24,6 +24,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `03-ArrayList_01` | Introdução a ArrayList, preenchendo o array com números aleatórios |
 | `03-ArrayList_02` | Adicionar numeros indefinidamente em um ArrayList |
 | `03-ArrayList_03` | Somando dois ArrayList |
+| `03-ArrayList_04` | Utilizando indexOf e remove em um Arraylist |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
