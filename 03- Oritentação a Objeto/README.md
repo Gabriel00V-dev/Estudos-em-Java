@@ -16,6 +16,7 @@ representa uma evolução nos conceitos de POO.
 | `06-Lutador-AssociacaoEntreObjetos` | Associação entre objetos, regras de negócio e simulação de luta |
 | `07-Livro-InterfaceEAssociacao` | Implementação de interface e relacionamento entre classes |
 | `08-Escola-HerancaSimples` | Herança simples com especialização de classes |
+| `09-Escola-HerancaEClasseAbstrata` | Herança com classe abstrata, especialização e sobrescrita de métodos |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
@@ -23,4 +24,5 @@ representa uma evolução nos conceitos de POO.
 - Encapsulamento, getters e setters
 - Interfaces e métodos abstratos
 - Associação entre objetos
+- Sobrescrita de métodos
 
