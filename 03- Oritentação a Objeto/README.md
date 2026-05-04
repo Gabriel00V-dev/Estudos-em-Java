@@ -18,6 +18,7 @@ representa uma evolução nos conceitos de POO.
 | `08-Escola-HerancaSimples` | Herança simples com especialização de classes |
 | `09-Escola-HerancaEClasseAbstrata` | Herança com classe abstrata, especialização e sobrescrita de métodos |
 | `10-ReinoAnimal-HierarquiaDeHeranca` | Hierarquia de herança, classes abstratas e especialização por tipo |
+| `11-Cachorro-PolimorfismoESobrecarga` | Polimorfismo, sobrescrita e sobrecarga de métodos |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
@@ -26,4 +27,6 @@ representa uma evolução nos conceitos de POO.
 - Interfaces e métodos abstratos
 - Associação entre objetos
 - Sobrescrita de métodos
+- Polimorfismo
+- Sobrecarga de métodos
 
