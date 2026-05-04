@@ -17,6 +17,7 @@ representa uma evolução nos conceitos de POO.
 | `07-Livro-InterfaceEAssociacao` | Implementação de interface e relacionamento entre classes |
 | `08-Escola-HerancaSimples` | Herança simples com especialização de classes |
 | `09-Escola-HerancaEClasseAbstrata` | Herança com classe abstrata, especialização e sobrescrita de métodos |
+| `10-ReinoAnimal-HierarquiaDeHeranca` | Hierarquia de herança, classes abstratas e especialização por tipo |
 
 ## Conceitos abordados
 - Classes, atributos e métodos
