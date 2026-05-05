@@ -18,7 +18,7 @@ O repositório é organizado em pastas por tema, crescendo continuamente com o a
 
 | Pasta | Descrição | 
 |-------|-----------|
-| `01-Fundamentos` | If/else, loops, switch
+| `01-Conceitos Fundamentais` | If/else, loops, switch
 | `02-Estrutura de Dados e Algoritmo` | Arrays, Matrizes, Filas, Pilhas, etc... 
 | `03-Orientação a Objeto` | Abstraçao, Herança, Encapsulamento e Polimorfismo 
 
