@@ -26,6 +26,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `03-ArrayList_03` | Somando dois ArrayList |
 | `03-ArrayList_04` | Utilizando indexOf e remove em um Arraylist |
 | `03-ArrayList_05` | Busca de um item em um ArrayList usando contains e indexOf |
+| `03-ArrayList_06` | Removendo elementos duplicados de um ArrayList usando contains como filtro |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
@@ -37,3 +38,4 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 - Básico de Matriz
 - Produto de Matrizes
 - Busca em ArrayList com contains e indexOf
+- Remoção de duplicatas com filtragem manual
