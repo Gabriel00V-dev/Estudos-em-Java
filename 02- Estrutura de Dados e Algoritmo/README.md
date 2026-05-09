@@ -25,6 +25,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `03-ArrayList_02` | Adicionar numeros indefinidamente em um ArrayList |
 | `03-ArrayList_03` | Somando dois ArrayList |
 | `03-ArrayList_04` | Utilizando indexOf e remove em um Arraylist |
+| `03-ArrayList_05` | Busca de um item em um ArrayList usando contains e indexOf |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
@@ -35,3 +36,4 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 - Busca binária com método estático
 - Básico de Matriz
 - Produto de Matrizes
+- Busca em ArrayList com contains e indexOf
