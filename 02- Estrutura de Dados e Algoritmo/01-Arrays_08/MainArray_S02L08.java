@@ -21,9 +21,9 @@ public class MainArray_S02L08{
             if(array[meio] == num){
                 return meio;
             }else if(array[meio] > num){
-                inicio = meio+1;
+                inicio = meio-1;
             }else{
-                fim = meio-1;
+                fim = meio+1;
             }
         }
 
