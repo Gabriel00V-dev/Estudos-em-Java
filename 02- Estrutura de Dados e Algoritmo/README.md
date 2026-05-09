@@ -28,6 +28,7 @@ filas, pilhas e estruturas mais complexas como árvores e grafos.
 | `03-ArrayList_05` | Busca de um item em um ArrayList usando contains e indexOf |
 | `03-ArrayList_06` | Removendo elementos duplicados de um ArrayList usando contains como filtro |
 | `03-ArrayList_07` | Ordenação manual de um ArrayList usando Selection Sort com get e set |
+| `03-ArrayList_08` | Carrinho de compras com menu interativo usando dois ArrayLists paralelos para nome e preço |
 
 ## Conceitos abordados até agora
 - Declaração e manipulação de arrays
