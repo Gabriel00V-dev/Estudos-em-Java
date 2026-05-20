@@ -17,6 +17,6 @@ public class MainArray_S02L01{
             System.out.println(num[i]);
         }
 
-        int[] num2 = {10, 15, 20, 25, 30}; //declara um array já com valores pré estabelecidos
+        // array de exemplo removido para evitar variável não utilizada
     }
 }
