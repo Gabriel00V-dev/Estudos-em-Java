@@ -6,7 +6,8 @@ public class MainArrayList_S02L02{
     ArrayList<Integer> idades = new ArrayList<>();
 
     char x = 'n';
-    try (Scanner sc = new Scanner(System.in)) {
+    Scanner sc = new Scanner(System.in);
+
         do{
             System.out.println("--MENU--");
             System.out.println("1) Adicionar Numeros");
@@ -40,4 +41,4 @@ public class MainArrayList_S02L02{
     }
     
     }
-}
+
