@@ -23,5 +23,12 @@
 hs_err_pid*
 replay_pid*
 
-# VS Code
-.vscode/
+# Maven
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
